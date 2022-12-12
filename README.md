@@ -24,7 +24,7 @@ This is the programme work about Berkeley CS61A 2021fall that I have done.
 - [x] Lab 14: Final Review
 
 # HWs
-🐱‍👓 The HWs contain 11 independent homework.
+🈶 The HWs contain 11 independent homework.
 
 - [x] HW 01: Control
 - [x] HW 02: Higher-Order Functions
@@ -39,7 +39,7 @@ This is the programme work about Berkeley CS61A 2021fall that I have done.
 - [x] HW 11: Finale
 
 # Projects
-🈚 The Projects contain 4 independent projects. 
+💌 The Projects contain 4 independent projects. 
 
 - [x] Project1: Hog
 - [x] Project2: Cats
