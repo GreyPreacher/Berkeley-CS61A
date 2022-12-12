@@ -7,21 +7,21 @@ This is the programme work about Berkeley CS61A 2021fall that I have done.
 # Labs
 🐱‍👓 The Labs contain 15 independent labs.
 
-- [x] Lab 00: [Getting Started (Optional)](https://inst.eecs.berkeley.edu/~cs61a/fa21/lab/lab00/)
-- [x] Lab01: Variables & Functions, Control
-- [x] Lab02: Higher-Order Functions, Lambda Expressions
-- [x] Lab03: [Midterm Review (Optional)](https://inst.eecs.berkeley.edu/~cs61a/fa21/lab/lab03/)
-- [x] Lab04: Recursion, Tree Recursion, Python Lists 
-- [x] Lab05: Python Lists, Trees
-- [x] Lab06: Mutability, Iterators
-- [x] Lab07: Object-Oriented Programming
-- [x] Lab08: Linked Lists, Mutable Trees
-- [x] Lab09: [Midterm Review (Optional)](https://inst.eecs.berkeley.edu/~cs61a/fa21/lab/lab09/)
-- [x] Lab10: Scheme 
-- [x] Lab11: Interpreters 
-- [x] Lab12: Regular Expressions, BNF
-- [x] Lab 13: SQL
-- [x] Lab 14: Final Review
+- [x] [Lab00: Getting Started (Optional)](https://inst.eecs.berkeley.edu/~cs61a/fa21/lab/lab00/)
+- [x] [Lab01: Variables & Functions, Control](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/lab/lab01)
+- [x] [Lab02: Higher-Order Functions, Lambda Expressions](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/lab/lab02)
+- [x] [Lab03: Midterm Review (Optional)](https://inst.eecs.berkeley.edu/~cs61a/fa21/lab/lab03/)
+- [x] [Lab04: Recursion, Tree Recursion, Python Lists](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/lab/lab04)
+- [x] [Lab05: Python Lists, Trees](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/lab/lab05)
+- [x] [Lab06: Mutability, Iterators](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/lab/lab06)
+- [x] [Lab07: Object-Oriented Programming](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/lab/lab07)
+- [x] [Lab08: Linked Lists, Mutable Trees](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/lab/lab08)
+- [x] [Lab09: Midterm Review (Optional)](https://inst.eecs.berkeley.edu/~cs61a/fa21/lab/lab09/)
+- [x] [Lab10: Scheme](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/lab/lab10)
+- [x] [Lab11: Interpreters](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/lab/lab11)
+- [x] [Lab12: Regular Expressions, BNF](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/lab/lab12)
+- [x] [Lab 13: SQL](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/lab/lab13)
+- [x] [Lab 14: Final Review](https://inst.eecs.berkeley.edu/~cs61a/fa21/lab/lab14/)
 
 # HWs
 🈶 The HWs contain 11 independent homework.
