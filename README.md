@@ -26,23 +26,23 @@ This is the programme work about Berkeley CS61A 2021fall that I have done.
 # HWs
 🈶 The HWs contain 11 independent homework.
 
-- [x] HW 01: Control
-- [x] HW 02: Higher-Order Functions
-- [x] HW 03: Recursion, Tree Recursion
-- [x] HW 04: Data Abstraction, Trees
-- [x] HW 05: Iterators and Generators
-- [x] HW 06: Object-Oriented Programming, Linked Lists 
-- [x] HW 07: Scheme 
-- [x] HW 08: Scheme Lists 
-- [x] HW 09: Regular Expressions
-- [x] HW 10: BNF, SQL
-- [x] HW 11: [Finale](https://inst.eecs.berkeley.edu/~cs61a/fa21/hw/hw11/)
+- [x] [HW 01: Control](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/homework/hw01)
+- [x] [HW 02: Higher-Order Functions](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/homework/hw02)
+- [x] [HW 03: Recursion, Tree Recursion](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/homework/hw03)
+- [x] [HW 04: Data Abstraction, Trees](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/homework/hw04)
+- [x] [HW 05: Iterators and Generators](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/homework/hw05)
+- [x] [HW 06: Object-Oriented Programming, Linked Lists](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/homework/hw06)
+- [x] [HW 07: Scheme](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/homework/hw07)
+- [x] [HW 08: Scheme Lists](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/homework/hw08)
+- [x] [HW 09: Regular Expressions](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/homework/hw09)
+- [x] [HW 10: BNF, SQL](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/homework/hw12)
+- [x] [HW 11: Finale](https://inst.eecs.berkeley.edu/~cs61a/fa21/hw/hw11/)
 
 # Projects
 💌 The Projects contain 4 independent projects. 
 
-- [x] Project1: Hog
-- [x] Project2: Cats
-- [x] Project3: Ants
-- [x] Project4: Scheme
+- [x] [Project1: Hog](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/projects/hog)
+- [x] [Project2: Cats](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/projects/cats)
+- [x] [Project3: Ants](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/projects/ants)
+- [x] [Project4: Scheme](https://github.com/GreyPreacher/Berkeley-CS61A/tree/main/projects/scheme)
 
