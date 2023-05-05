@@ -1,5 +1,6 @@
 # Berkeley-CS61A
-This is the programme work about Berkeley CS61A 2021fall that I have done.  
+😎 This is UC Berkeley CS61A **Structure and Interpretation of Computer Programs** Fall 2021 by GreyPreacher(Alvin Zhang).  
+⚔ **IDE**: JetBrains PyCharm.
 
 # Resources
 📽 You can reach CS61A 2021fall official webpage at [this page](https://inst.eecs.berkeley.edu/~cs61a/fa21/).
